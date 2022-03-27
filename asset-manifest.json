@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DnDcharList/static/css/main.536f00dd.css",
+    "main.js": "/DnDcharList/static/js/main.1dfa9a2c.js",
+    "static/js/787.43337d3f.chunk.js": "/DnDcharList/static/js/787.43337d3f.chunk.js",
+    "index.html": "/DnDcharList/index.html",
+    "main.536f00dd.css.map": "/DnDcharList/static/css/main.536f00dd.css.map",
+    "main.1dfa9a2c.js.map": "/DnDcharList/static/js/main.1dfa9a2c.js.map",
+    "787.43337d3f.chunk.js.map": "/DnDcharList/static/js/787.43337d3f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.536f00dd.css",
+    "static/js/main.1dfa9a2c.js"
+  ]
+}
